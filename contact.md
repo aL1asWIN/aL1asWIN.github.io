@@ -5,6 +5,7 @@ permalink: /contact/
 ---
 
 Want to work together? 
+
 Feel free to contact me below!
 
 #### Contact Me:
