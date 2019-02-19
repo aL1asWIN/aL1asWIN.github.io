@@ -2,9 +2,9 @@
 title: Alexander Nguyen # your site title
 author: GitHub User | aL1asWIN # You :P
 description: > # Meta description of Homepage
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  A Data Scientist that is passionate about applying data visualization and model creation. 
+  From saving the financial lives of those preparing for retirement, to recommending larger business decisions. 
+  I am always pursuing new challenges and opportunities to employ data.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://aL1asWIN.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
