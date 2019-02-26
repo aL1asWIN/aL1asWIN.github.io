@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Disaster Tweets Classifier"
-featured-img: cruz-beto
+featured-img:
 categories: [Project, NLP]
 ---
 
